@@ -1,6 +1,6 @@
 # 📊 Data Analytics Chatbot
 
-An **AI-powered Data Analytics Chatbot** developed using Python, Streamlit, and Gemini LLM.  
+An **AI-powered Data Analytics Chatbot** developed using Python, Streamlit, and Gemini LLM 
 This chatbot is designed to help **students learn and apply Data Analytics techniques** by providing real-time insights, visualizations, and support for ML algorithms.
 
 ---
